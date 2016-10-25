@@ -1,4 +1,9 @@
 
+**IMPORTANT!** Please use
+[conciliator](https://github.com/codeforkjeff/conciliator) instead,
+which does what refine_viaf does, plus more. This project is no longer
+being maintained.
+
 refine_viaf
 ===========
 
